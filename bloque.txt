@@ -1,0 +1,4 @@
+El uso de git nos permite tener a mano todos los cambios que realizamos y mantener una copia segura de los mismos
+Nos permite arrojar repositorios de git en la web, para poder acceder a ellos desde cualquier dispositivo
+con ello nos permite compartir con mas personas nuestra experiencia y proyectos en los que hemos participado
+Aprendimos los comandos ls, cd, git status, git add -A, git commit -m, git log, git remote add origin, git push origin master
